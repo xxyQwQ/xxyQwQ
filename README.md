@@ -1,9 +1,1 @@
-- xxyQwQ
-- An undergraduate student in SJTU
-- Major in artificial intelligence
-- Like mathematics, algorithm, and development
-
-<!---
-xxyQwQ/xxyQwQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a first-year PhD student of Multimedia Laboratory at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). Before that, I obtained my Bachelor's degree from the Honor Class of Artificial Intelligence at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/about/general_information). My research interests lie in Large Language Models, Multi-agent Systems, and Reinforcement Learning.
